@@ -1,0 +1,40 @@
+ body{font-family: cursive;}
+ .header{height:100px;
+        background-color: #ace011;
+         padding-left: 10px;}
+.left{height:400px;
+        background-color: #e2fffd;
+        width: 40%;
+        float:left;
+        }
+.right{height:400px;
+        background-color: skyblue;
+        width: 60%;
+        float:left;}
+.footer{height:200px;
+         background-color:#ace011;
+         clear:both;
+        padding-left:10px;}
+body{margin:0px;
+              }
+.left img{height:200px;
+         margin:20px 200px 0 200px;}
+ .left h2{display:block;
+         text-align:center; }
+.header h1{padding:10px;
+          margin:0;
+         color:red;}
+#talent{float:left;}
+ .footer img{height:70px;
+             width:70px;
+             padding: 10px;
+             }
+
+ .footer h2{display: inline;
+             color:red;}
+.content{color:blue;
+         }
+.content h2{padding-left:20px;}
+ .content h1{padding-left:20px;}
+ #education{margin-left:300px;}
+                        
